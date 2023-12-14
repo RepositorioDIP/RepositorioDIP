@@ -1,6 +1,5 @@
-# Prospectiva en el IGAC: Proceso, Avance y Retos
-
-Este repositorio contiene información y recursos relacionados con la implementación de la prospectiva en el Instituto Geográfico Agustín Codazzi (IGAC), incluyendo detalles sobre el proceso, los avances realizados y los desafíos que se enfrentan.
+# Repositorio de la Dirección de Investigación y Prospectiva IGAC
+Este repositorio contiene información y recursos relacionados con la implementación de los proyectos de la Dirección de Prospectiva en el [Instituto Geográfico Agustín Codazzi (IGAC)](https://www.igac.gov.co/). Alberga el código y los recursos utilizados en nuestros proyectos de investigación dentro del IGAC, incluyendo análisis, datos, aplicaciones y otros productos que promueven la ciencia abierta, reproducible y transparente en función de nuestra misión y alcance. El acceso a estos materiales se otorga en concordancia con la actual legislación de datos abiertos. En ciertos casos, estos recursos no serán dispuestos en su forma original, según las restricciones correspondientes a cada proyecto, asegurando así su manejo adecuado y la seguridad de la información.
 
 ## Descripción
 
